@@ -1,0 +1,224 @@
+botbite:
+  colors:
+    'бордовая': 'taxi/color-claret-fem'
+    'бордовый': 'taxi/color-black-red'
+    'бежевая': 'taxi/color-biege-fem'
+    'бежевый': 'taxi/color-biege'
+    'белая': 'taxi/color-white-fem'
+    'белый': 'taxi/color-white'
+    'вишневая': 'taxi/color-cherry-fem'
+    'вишневый': 'taxi/color-cherry'
+    'голубая': 'taxi/color-light-blue-fem'
+    'голубой': 'taxi/color-blue'
+    'желтая': 'taxi/color-yellow-fem'
+    'желтый': 'taxi/color-yellow'
+    'зеленая': 'taxi/color-green-fem'
+    'зеленый': 'taxi/color-green'
+    'золотистая': 'taxi/color-gold-fem'
+    'золотистый': 'taxi/color-gold'
+    'коричневая': 'taxi/color-brown-fem'
+    'коричневый': 'taxi/color-brown'
+    'красная': 'taxi/color-red-fem'
+    'красный': 'taxi/color-red'
+    'оранжевая': 'taxi/color-orange-fem'
+    'оранжевый': 'taxi/color-organge'
+    'розовая': 'taxi/color-pink-fem'
+    'розовый': 'taxi/color-pink'
+    'серая': 'taxi/color-gray-fem'
+    'серебристая': 'taxi/color-silver-fem'
+    'серебристый': 'taxi/color-silver'
+    'серый': 'taxi/color-grey'
+    'синий': 'taxi/color-navy'
+    'синяя': 'taxi/color-blue-fem'
+    'фиолетовая': 'taxi/color-purple-fem'
+    'фиолетовый': 'taxi/color-purple'
+    'черная': 'taxi/color-black-fem'
+    'черный': 'taxi/color-black'
+
+  digits:
+    - 'taxi/0'
+    - 'taxi/1'
+    - 'taxi/2'
+    - 'taxi/3'
+    - 'taxi/4'
+    - 'taxi/5'
+    - 'taxi/6'
+    - 'taxi/7'
+    - 'taxi/8'
+    - 'taxi/9'
+
+  minutes:
+    - [1, taxi/min-1]
+    - [2, taxi/min-2]
+    - [3, taxi/min-3]
+    - [4, taxi/min-4]
+    - [5, taxi/min-5]
+    - [6, taxi/min-6]
+    - [7, taxi/min-7]
+    - [8, taxi/min-8]
+    - [9, taxi/min-9]
+    - [10, taxi/min-10]
+    - [11, taxi/min-11]
+    - [12, taxi/min-12]
+    - [13, taxi/min-13]
+    - [14, taxi/min-14]
+    - [15, taxi/min-15]
+    - [16, taxi/min-16]
+    - [17, taxi/min-17]
+    - [18, taxi/min-18]
+    - [19, taxi/min-19]
+    - [20, taxi/min-20]
+    - [30, taxi/min-30]
+    - [40, taxi/min-40]
+    - [50, taxi/min-50]
+
+  carFallback: 'Автомобиль'
+  cars:
+    - ['10', 'taxi/car-10']
+    - ['11', 'taxi/car-11']
+    - ['12', 'taxi/car-12']
+    - ['13', 'taxi/car-13']
+    - ['14', 'taxi/car-14']
+    - ['15', 'taxi/car-15']
+    - ['4', 'taxi/car-04']
+    - ['5', 'taxi/car-05']
+    - ['6', 'taxi/car-06']
+    - ['7', 'taxi/car-07']
+    - ['8', 'taxi/car-08']
+    - ['9', 'taxi/car-09']
+    - ['99', 'taxi/car-99']
+    - ['Автомобиль', 'taxi/car']
+    - ['Ауди', 'taxi/car-audi']
+    - ['БМВ', 'taxi/car-bmw']
+    - ['ВАЗ 2104', 'taxi/vaz2104']
+    - ['ВАЗ 2105', 'taxi/vaz2105']
+    - ['ВАЗ 2106', 'taxi/vaz2106']
+    - ['ВАЗ 2107', 'taxi/vaz2107']
+    - ['ВАЗ 2108', 'taxi/vaz2108']
+    - ['ВАЗ 2109', 'taxi/vaz2109']
+    - ['ВАЗ 2110', 'taxi/vaz2110']
+    - ['ВАЗ 2111', 'taxi/vaz2111']
+    - ['ВАЗ 2112', 'taxi/vaz2112']
+    - ['ВАЗ 2113', 'taxi/vaz2113']
+    - ['ВАЗ 2114', 'taxi/vaz2114']
+    - ['ВАЗ 2115', 'taxi/vaz2115']
+    - ['ВАЗ 2199', 'taxi/vaz2199']
+    - ['ВАЗ минивен', 'taxi/car-vaz-miniven']
+    - ['ВАЗ надежда', 'taxi/car-vaz-miniven']
+    - ['Ваз', 'taxi/car-vaz']
+    - ['Валдай', 'taxi/car-voldai']
+    - ['Волга', 'taxi/car-volga']
+    - ['Волдай', 'taxi/car-voldai']
+    - ['Вольво', 'taxi/car-volvo']
+    - ['Газель тентованная', 'taxi/car-gaz-tent']
+    - ['Газель ТЕРМОБУДКА', 'taxi/car-gaz-termo']
+    - ['Газель термос', 'taxi/car-gaz-termos']
+    - ['Газель ц.мет', 'taxi/car-gaz-fullmetal']
+    - ['Газель', 'taxi/car-gazel']
+    - ['Грейт_вол', 'taxi/car-great-wall']
+    - ['Грузовик', 'taxi/car-gruzovik']
+    - ['Датсун Ондо', 'taxi/car-datsun-on-do']
+    - ['Джили Эмгранд', 'taxi/car-geely-emgrand']
+    - ['Джили', 'taxi/car-geely']
+    - ['Джилли Эмгранд', 'taxi/car-geely-emgrand']
+    - ['Джилли', 'taxi/car-geely']
+    - ['Джип', 'taxi/car-jeep']
+    - ['Додж', 'taxi/car-dodge']
+    - ['Дэу', 'taxi/car-daewoo']
+    - ['Дэу_Матиз', 'taxi/car-daewoo-matiz']
+    - ['Дэу_Нексия', 'taxi/car-daewoo-nexia']
+    - ['Жигули пятерка', 'taxi/vaz2105']
+    - ['Жигули семерка', 'taxi/vaz2107']
+    - ['Жигули четверка', 'taxi/vaz2104']
+    - ['Жигули шестерка', 'taxi/vaz2106']
+    - ['Жигули', 'taxi/car-jig']
+    - ['Жигули_4', 'taxi/vaz2104']
+    - ['Жигули_5', 'taxi/vaz2105']
+    - ['Жигули_6', 'taxi/vaz2106']
+    - ['Жигули_7', 'taxi/vaz2107']
+    - ['ЗАЗ Вида', 'taxi/car-zaz-vida']
+    - ['ЗАЗ Шанс', 'taxi/car-zaz-chance']
+    - ['ЗАЗ', 'taxi/car-zaz']
+    - ['ЗИЛ бычок', 'taxi/car-zil-b']
+    - ['Иномарка', 'taxi/car-inomarka']
+    - ['Кадиллак', 'taxi/car-cadillac']
+    - ['Калина', 'taxi/car-kalina']
+    - ['Камаз', 'taxi/car-kamaz']
+    - ['Киа', 'taxi/car-kia']
+    - ['Копейка', 'taxi/car-cop']
+    - ['Крайслер', 'taxi/car-chrysler']
+    - ['Лада 4', 'taxi/car-lada4']
+    - ['Лада 5', 'taxi/car-lada5']
+    - ['Лада 6', 'taxi/car-lada6']
+    - ['Лада 7', 'taxi/car-lada7']
+    - ['Лада Веста', 'taxi/car-lada-vesta']
+    - ['Лада восьмерка', 'taxi/car-lada8']
+    - ['Лада двенадцатая', 'taxi/car-lada12']
+    - ['Лада девяносто девятая', 'taxi/car-lada99']
+    - ['Лада девятка', 'taxi/car-lada9']
+    - ['Лада десятка', 'taxi/car-lada10']
+    - ['Лада Иксрей', 'taxi/car-lada-x-ray']
+    - ['Лада минивен', 'taxi/car-lada-miniven']
+    - ['Лада надежда', 'taxi/car-lana-nadezhda']
+    - ['Лада Ода', 'taxi/car-oda']
+    - ['Лада одиннадцатая', 'taxi/car-lada11']
+    - ['Лада пятнадцатая', 'taxi/car-lada15']
+    - ['Лада тринадцатая', 'taxi/car-lada13']
+    - ['Лада четырнадцатая', 'taxi/car-lada14']
+    - ['Лада', 'taxi/car-lada']
+    - ['Лада10', 'taxi/car-lada10']
+    - ['Лада11', 'taxi/car-lada11']
+    - ['Лада12', 'taxi/car-lada12']
+    - ['Лада13', 'taxi/car-lada13']
+    - ['Лада14', 'taxi/car-lada14']
+    - ['Лада15', 'taxi/car-lada15']
+    - ['Лада8', 'taxi/car-lada8']
+    - ['Лада9', 'taxi/car-lada9']
+    - ['Лада99', 'taxi/car-lada99']
+    - ['Лада_Гранта', 'taxi/car-lada-granta']
+    - ['Лада_Калина', 'taxi/car-lada-kalina']
+    - ['Лада_Ларгус', 'taxi/car-lada-largus']
+    - ['Лада_Приора', 'taxi/car-lada-priora']
+    - ['Ланос', 'taxi/car-chevrolet-lanos']
+    - ['Лексус', 'taxi/car-lexus']
+    - ['Лифан', 'taxi/car-lifan']
+    - ['МАЗ', 'taxi/car-maz']
+    - ['Мазда', 'taxi/car-mazda']
+    - ['Мерседес', 'taxi/car-mercedes1']
+    - ['Микроавтобус', 'taxi/car-microbus']
+    - ['Митсубиси', 'taxi/car-mitsubishi']
+    - ['Мицубиси', 'taxi/car-mitsubishi']
+    - ['Москвич', 'taxi/car-moskvich']
+    - ['Нексия', 'taxi/car-daewoo-nexia']
+    - ['Нива', 'taxi/car-niva']
+    - ['Ниссан', 'taxi/car-nissan']
+    - ['Ода', 'taxi/car-oda']
+    - ['Опель', 'taxi/car-opel']
+    - ['Пежо', 'taxi/car-peugeot']
+    - ['Понтиак', 'taxi/car-pontiac']
+    - ['Портер', 'taxi/car-porter']
+    - ['Приора', 'taxi/car-priora']
+    - ['Рено', 'taxi/car-renault']
+    - ['Ровер', 'taxi/car-rover']
+    - ['Сааб', 'taxi/car-saab']
+    - ['Саманд', 'taxi/car-samand']
+    - ['Сеат', 'taxi/car-seat']
+    - ['Сенс', 'taxi/car-sens']
+    - ['Ситроен', 'taxi/car-citroen']
+    - ['Соболь', 'taxi/car-sobol']
+    - ['Ссанг-Йонг', 'taxi/car-ssang-yong']
+    - ['Субару', 'taxi/car-subaru']
+    - ['Сузуки', 'taxi/car-suzuki']
+    - ['Тойота', 'taxi/car-toyota']
+    - ['УАЗ', 'taxi/car-uaz']
+    - ['Фав', 'taxi/car-fav']
+    - ['Фиат', 'taxi/car-fiat']
+    - ['Фольксваген', 'taxi/car-volkswagen']
+    - ['Форд', 'taxi/car-ford']
+    - ['Хендай', 'taxi/car-hyndai']
+    - ['Хино', 'taxi/car-hino']
+    - ['Хонда', 'taxi/car-honda']
+    - ['Черри', 'taxi/car-chery']
+    - ['Шанс', 'taxi/car-shans']
+    - ['Шевроле', 'taxi/car-chevrolet']
+    - ['Шкода', 'taxi/car-skoda']
