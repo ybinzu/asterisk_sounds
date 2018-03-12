@@ -1,1 +1,1 @@
-0 *     * * *   root    cd /opt/asterisk_sounds; git pull origin master
+0 3     * * *   root    cd /opt/asterisk_sounds; git pull origin master
